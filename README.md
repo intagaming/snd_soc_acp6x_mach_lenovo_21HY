@@ -1,5 +1,7 @@
 # snd_soc_acp6x_mach_lenovo_21HY
 
+UPDATE: It has been merged into the kernel: https://github.com/torvalds/linux/commit/a8f5da0bf4d85a6ad03810d902aba61c572102a6. No need to use this repo anymore.
+
 This thing [patches `snd_soc_acp6x_mach`](https://www.spinics.net/lists/alsa-devel/msg156915.html)
 for the _ThinkBook 14 G5+ ARP_, or _ThinkBook 14+_, or _Lenovo 21HY_. It fixes
 the internal microphone and make it show up.
